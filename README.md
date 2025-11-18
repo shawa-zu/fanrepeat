@@ -1,3 +1,5 @@
+githubリポジトリ: https://github.com/shawa-zu/fanrepeat
+
 # 地域コミュニティイベント管理アプリ
 React × Vite × TailwindCSS
 
